@@ -1,6 +1,6 @@
 # 🛒 Supermarket Sales Analysis Dashboard
 
-An interactive **Streamlit Dashboard** for analyzing supermarket sales data — providing insights into monthly performance, customer behavior, and product trends.  
+An interactive **Streamlit Dashboard** for analyzing supermarket sales data by providing insights into monthly performance, customer behavior, and product trends.  
 
 ---
 
