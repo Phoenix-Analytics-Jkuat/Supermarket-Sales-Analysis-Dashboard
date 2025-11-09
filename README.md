@@ -92,10 +92,6 @@ This project can be deployed easily using:
 - **Vercel (via Streamlit wrapper)**
 
 - **Docker**
----
-### 🧑‍💻 Author
-Crispin @crispin046
- |Data Scientist & Analyst | Python Developer | Streamlit Enthusiast
 
 ---
 ### 📜 License
